@@ -1,2 +1,4 @@
 # Data-Science-Interview-Problems
-This contains the interview problems I've taken from Clean Choice Energy(CCE) and Jingdong(JD).
+Company Lists:
+1. Clean Choice Energy(CCE) 
+2. Jingdong(JD).
